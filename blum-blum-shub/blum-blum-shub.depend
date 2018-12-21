@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545357020 source:/home/tanz/Coding/blum-blum-shub/main.c
+	<stdio.h>
+	<stdlib.h>
+	"openssl/bn.h"
+
